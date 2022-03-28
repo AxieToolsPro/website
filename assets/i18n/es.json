@@ -8,5 +8,8 @@
     "Menu": {
         "Community": "Communidad",
         "Tools": "Herramientas"
+    },
+    "Error": {
+        "axiev3Null": "No se ha encontrado ninguna coincidencia"
     }
 }
