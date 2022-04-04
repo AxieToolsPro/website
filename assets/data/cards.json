@@ -1,0 +1,1940 @@
+[
+  {
+    "name": "Wall Gecko",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Iguana",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Tiny Dino",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack",  "Retain"
+    ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Snake Jar",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Gila",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "40",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Grass Snake",
+    "part": "Tail",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Ant",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "40",
+    "heal": "0"
+  },
+  {
+    "name": "Twin Tail",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "35",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Fish Snack",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Gravel Ant",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Pupae",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Thorny Caterpillar",
+    "part": "Tail",
+    "class": "Bug",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "110",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Swallow",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Feather Fan",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "35",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "The Last One",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cloud",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Granma's Fan",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "1",
+    "types": [ "Attack", "Innate" ],
+    "attack": "25",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Post Fight",
+    "part": "Tail",
+    "class": "Bird",
+    "cost": "1",
+    "types": [ "Attack" ],
+    "attack": "100",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cottontail",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "0",
+    "types": [ "Skill",  "Banish"],
+    "attack": "0",
+    "armord": "0",
+    "heal": "25"
+  },
+  {
+    "name": "Rice",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Shiba",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "2",
+    "types": [ "Attack" ],
+    "attack": "130",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hare",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "1",
+    "types": [ "Attack" ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nut Cracker",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "1",
+    "types": [ "Attack" ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Gerbil",
+    "part": "Tail",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Koi",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "120",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nimo",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Tadpole",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Ranchu",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Navaga",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Shrimp",
+    "part": "Tail",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Carrot",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cattail",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hatsune",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Yam",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "0",
+    "types": [  "Attack"  ],
+    "attack": "5",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Potato Leaf",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hot Buff",
+    "part": "Tail",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bone Sall",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Trip Spikes",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "25",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Green Thorns",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Indian Star",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Red Ear",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "65",
+    "heal": "0"
+  },
+  {
+    "name": "Croc",
+    "part": "Back",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Balloon",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cupid",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Raven",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Pigeon Post",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "55",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Kinghsher",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Tri Feather",
+    "part": "Back",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "25",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Ronin",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "40",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hero",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Jaguar",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Ricky Beast",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "90",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Timber",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Furball",
+    "part": "Back",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "40",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Snail Shiel",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Garish Worm",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "120",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Buzz Buzz",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "20",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Sandal",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "100",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Scarab",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "30",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Spiky Wing",
+    "part": "Back",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hermit",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Blue Moon",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Goldfish",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Sponge",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Anemone",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Perch",
+    "part": "Back",
+    "class": "Aquatic",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "30",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Turnip",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Shiitake",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bidens",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Watering Can",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Mint",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "20",
+    "heal": "0"
+  },
+  {
+    "name": "Pumpkin",
+    "part": "Back",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Lam",
+    "part": "Mouth",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Catfish",
+    "part": "Mouth",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Risky Fish",
+    "part": "Mouth",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "90",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Piranha",
+    "part": "Mouth",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nut Cracker",
+    "part": "Mouth",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Goda",
+    "part": "Mouth",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack",  "Banish"
+    ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Axie Kiss",
+    "part": "Mouth",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Confident",
+    "part": "Mouth",
+    "class": "Beast",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Serious",
+    "part": "Mouth",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "90",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Zigzag",
+    "part": "Mouth",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Herbivore",
+    "part": "Mouth",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Silence Whisper",
+    "part": "Mouth",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "65"
+  },
+  {
+    "name": "Doubletalk",
+    "part": "Mouth",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Peace Maker",
+    "part": "Mouth",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Little Owl",
+    "part": "Mouth",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hungry Bird",
+    "part": "Mouth",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Mosquito",
+    "part": "Mouth",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Pincer",
+    "part": "Mouth",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cute Bunny",
+    "part": "Mouth",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Square Teeth",
+    "part": "Mouth",
+    "class": "Bug",
+    "cost": "0",
+    "types": [  "Attack"  ],
+    "attack": "25",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Kotaro",
+    "part": "Mouth",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "30",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Razor Bite",
+    "part": "Mouth",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Tiny Turtle",
+    "part": "Mouth",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Toothless Bite",
+    "part": "Mouth",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bamboo Shoot",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Beech",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "90",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Rose Bud",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "70"
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "2",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cactus",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Watermelon",
+    "part": "Horn",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Lagging",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Antenna",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Caterpillars",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Pliers",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Parasite",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Leaf bug",
+    "part": "Horn",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "45",
+    "heal": "0"
+  },
+  {
+    "name": "Babylonia",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Teal Skell",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Clamshell",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Anemone",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Oranda",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "120",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Shoal Star",
+    "part": "Horn",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Unko",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Scaly Spear",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cerastes",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Scaly Spoon",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Incisor",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bumpy",
+    "part": "Horn",
+    "class": "Reptile",
+    "cost": "2",
+    "types": [  "Power",  "Innate"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Eggshell",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "75",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cuckoo",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Trump",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Kestrel",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Wing Horn",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Feather Spear",
+    "part": "Horn",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Little Branch",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "130",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Imp",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "70",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Merry",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "65",
+    "heal": "0"
+  },
+  {
+    "name": "Pocky",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Dual Blade",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Arco",
+    "part": "Horn",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Friezard",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "20"
+  },
+  {
+    "name": "Small Frill",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Swirl",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Sidebard",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Pagona",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cursed Spine",
+    "part": "Ears",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Secret"  ],
+    "attack": "0",
+    "armord": "60",
+    "heal": "0"
+  },
+  {
+    "name": "Nimo",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "25"
+  },
+  {
+    "name": "Tiny Fan",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Gill",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Seaslug",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "110",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Inkling",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bubblemaker",
+    "part": "Ears",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "50",
+    "heal": "0"
+  },
+  {
+    "name": "Zen",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "65"
+  },
+  {
+    "name": "Puppy",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "25"
+  },
+  {
+    "name": "Innocent Lamb",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Belieber",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "20",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nut Cracker",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nyan",
+    "part": "Ears",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Clover",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Rosa",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "0",
+    "types": [  "Attack",  "Innate",  "Banish"
+    ],
+    "attack": "5",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Hollow",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Sakura",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "2",
+    "types": "Power",
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Leafy",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "0",
+    "types": [  "Attack"  ],
+    "attack": "10",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Lotus",
+    "part": "Ears",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "50",
+    "heal": "30"
+  },
+  {
+    "name": "Tassels",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "10"
+  },
+  {
+    "name": "Larva",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Earwing",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "20",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Ear Breathing",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "30",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Beetle Spike",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "45",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Leaf Bug",
+    "part": "Ears",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "45",
+    "heal": "0"
+  },
+  {
+    "name": "Pink Cheek",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Little Owl",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Peace Maker",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Early Bird",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Curly",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "65",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Risky Bird",
+    "part": "Ears",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "90",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Papi",
+    "part": "Eyes",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "45"
+  },
+  {
+    "name": "Confusion",
+    "part": "Eyes",
+    "class": "Plant",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Cucumber Slice",
+    "part": "Eyes",
+    "class": "Plant",
+    "cost": "2",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "50"
+  },
+  {
+    "name": "Blossom",
+    "part": "Eyes",
+    "class": "Plant",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Gecko",
+    "part": "Eyes",
+    "class": "Reptile",
+    "cost": "0",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "25"
+  },
+  {
+    "name": "Tricky",
+    "part": "Eyes",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "50"
+  },
+  {
+    "name": "Scar",
+    "part": "Eyes",
+    "class": "Reptile",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Topaz",
+    "part": "Eyes",
+    "class": "Reptile",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "25",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Zeat",
+    "part": "Eyes",
+    "class": "Beast",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Little Peas",
+    "part": "Eyes",
+    "class": "Beast",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Puppy",
+    "part": "Eyes",
+    "class": "Beast",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Chubby",
+    "part": "Eyes",
+    "class": "Beast",
+    "cost": "2",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Bookworn",
+    "part": "Eyes",
+    "class": "Bug",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Nerdy",
+    "part": "Eyes",
+    "class": "Bug",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Neo",
+    "part": "Eyes",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Kotaro",
+    "part": "Eyes",
+    "class": "Bug",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "50",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Sleepless",
+    "part": "Eyes",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Clear",
+    "part": "Eyes",
+    "class": "Aquatic",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Gero",
+    "part": "Eyes",
+    "class": "Aquatic",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Telescope",
+    "part": "Eyes",
+    "class": "Aquatic",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Mavis",
+    "part": "Eyes",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Lucas",
+    "part": "Eyes",
+    "class": "Bird",
+    "cost": "0",
+    "types": [  "Skill",  "Banish"
+    ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Little Owl",
+    "part": "Eyes",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Attack"  ],
+    "attack": "60",
+    "armord": "0",
+    "heal": "0"
+  },
+  {
+    "name": "Robin",
+    "part": "Eyes",
+    "class": "Bird",
+    "cost": "1",
+    "types": [  "Skill"  ],
+    "attack": "0",
+    "armord": "0",
+    "heal": "0"
+  }
+]
